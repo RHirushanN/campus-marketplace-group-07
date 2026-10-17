@@ -6,8 +6,8 @@ A safe, student-focused, peer-to-peer e-commerce marketplace web application des
 
 ## 👥 Group Members
 
-| Name | Role | Student ID |
-| :--- | :--- | :--- |
+| Name |Student ID |
+| :--- |:--- |
 | **Hirushan Nimnada** | `2023/CSC/059` |
 | **Nayanajith Edirisinghe** | `2023/CSC/084` |
 | **Sajitha Nethmin** | `2023/CSC/021` |
